@@ -1,0 +1,6 @@
+__pycache__
+.venv
+.cache
+benchmark/bad_*
+test.png
+*_test.png

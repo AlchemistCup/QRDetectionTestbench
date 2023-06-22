@@ -1,0 +1,18 @@
+Testing vectorised method
+Testing 0.0% tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 293.74158ms, std. dev = 15.77227ms
+	Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 10.0% tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 297.33206ms, std. dev = 16.77054ms
+	Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 25.0% tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 318.42110ms, std. dev = 28.35821ms
+	Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 50.0% tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 332.57606ms, std. dev = 56.03841ms
+	Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 75.0% tiles

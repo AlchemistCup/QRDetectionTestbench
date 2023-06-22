@@ -1,0 +1,33 @@
+Testing OpenCV library
+Testing 0 tiles
+Benchmark complete (100 iterations): 
+	Time: mean = 3098.06152ms, std. dev = 0.82022ms
+	F1 Score: mean = 1.00000, std. dev = 0.00000
+Testing 1 tiles
+Benchmark complete (100 iterations): 
+	Time: mean = 3211.96021ms, std. dev = 1.70633ms
+	F1 Score: mean = 1.00000, std. dev = 0.00000
+Testing 2 tiles
+Benchmark complete (100 iterations): 
+	Time: mean = 3227.28979ms, std. dev = 2.60381ms
+	F1 Score: mean = 0.99000, std. dev = 0.05686
+Testing 3 tiles
+Benchmark complete (100 iterations): 
+	Time: mean = 3261.18213ms, std. dev = 3.98373ms
+	F1 Score: mean = 1.00000, std. dev = 0.00000
+Testing 4 tiles
+Benchmark complete (100 iterations): 
+	Time: mean = 3322.40601ms, std. dev = 117.69193ms
+	F1 Score: mean = 0.99143, std. dev = 0.03393
+Testing 5 tiles
+Benchmark complete (100 iterations): 
+	Time: mean = 3423.07617ms, std. dev = 106.73880ms
+	F1 Score: mean = 0.99333, std. dev = 0.02639
+Testing 6 tiles
+Benchmark complete (100 iterations): 
+	Time: mean = 3470.96680ms, std. dev = 149.74681ms
+	F1 Score: mean = 0.99818, std. dev = 0.01273
+Testing 7 tiles
+Benchmark complete (100 iterations): 
+	Time: mean = 3536.45190ms, std. dev = 214.87625ms
+	F1 Score: mean = 0.99692, std. dev = 0.01507

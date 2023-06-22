@@ -1,0 +1,50 @@
+Testing simultaneous method
+Testing 0.0% tiles
+Benchmark complete (100 iterations): 
+        Time: mean = 12.39117ms, std. dev = 0.83311ms
+        Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 10.0% tiles
+Benchmark complete (100 iterations): 
+        Time: mean = 37.17537ms, std. dev = 8.59430ms
+        Accuracy: mean = 99.93750%, std. dev = 0.30619%
+Testing 25.0% tiles
+Benchmark complete (100 iterations): 
+        Time: mean = 87.15187ms, std. dev = 24.83801ms
+        Accuracy: mean = 99.50000%, std. dev = 0.82325%
+Testing 50.0% tiles
+Benchmark complete (100 iterations): 
+        Time: mean = 304.34206ms, std. dev = 90.47762ms
+        Accuracy: mean = 99.42188%, std. dev = 0.95440%
+Testing 75.0% tiles
+Benchmark complete (100 iterations): 
+        Time: mean = 714.19721ms, std. dev = 133.63169ms
+        Accuracy: mean = 99.20312%, std. dev = 1.29782%
+Testing 90.0% tiles
+Benchmark complete (100 iterations): 
+        Time: mean = 1065.13481ms, std. dev = 125.63774ms
+        Accuracy: mean = 98.51562%, std. dev = 1.98105%
+Testing iterative method
+Testing 0.0% tiles
+Benchmark complete (100 iterations): 
+        Time: mean = 258.42581ms, std. dev = 5.83794ms
+        Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 10.0% tiles
+Benchmark complete (100 iterations): 
+        Time: mean = 263.98195ms, std. dev = 4.97900ms
+        Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 25.0% tiles
+Benchmark complete (100 iterations): 
+        Time: mean = 273.53772ms, std. dev = 4.99136ms
+        Accuracy: mean = 99.96875%, std. dev = 0.21875%
+Testing 50.0% tiles
+Benchmark complete (100 iterations): 
+        Time: mean = 289.88129ms, std. dev = 8.32348ms
+        Accuracy: mean = 99.89062%, std. dev = 0.39867%
+Testing 75.0% tiles
+Benchmark complete (100 iterations): 
+        Time: mean = 310.88667ms, std. dev = 13.07595ms
+        Accuracy: mean = 99.92188%, std. dev = 0.34054%
+Testing 90.0% tiles
+Benchmark complete (100 iterations): 
+        Time: mean = 364.25960ms, std. dev = 44.92610ms
+        Accuracy: mean = 99.90625%, std. dev = 0.37107%

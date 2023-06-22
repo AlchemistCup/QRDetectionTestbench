@@ -1,0 +1,50 @@
+Testing simultaneous method
+Testing 0.0% tiles
+Benchmark complete (100 iterations): 
+	Time: mean = 28.66141ms, std. dev = 16.32945ms
+	Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 10.0% tiles
+Benchmark complete (100 iterations): 
+	Time: mean = 2931.40204ms, std. dev = 1614.92976ms
+	Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 25.0% tiles
+Benchmark complete (100 iterations): 
+	Time: mean = 8848.37142ms, std. dev = 2711.64544ms
+	Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 50.0% tiles
+Benchmark complete (100 iterations): 
+	Time: mean = 21586.67866ms, std. dev = 3662.90669ms
+	Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 75.0% tiles
+Benchmark complete (100 iterations): 
+	Time: mean = 39431.18712ms, std. dev = 4919.90116ms
+	Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 90.0% tiles
+Benchmark complete (100 iterations): 
+	Time: mean = 53984.11066ms, std. dev = 3675.33503ms
+	Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing iterative method
+Testing 0.0% tiles
+Benchmark complete (100 iterations): 
+	Time: mean = 543.91722ms, std. dev = 113.98529ms
+	Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 10.0% tiles
+Benchmark complete (100 iterations): 
+	Time: mean = 1183.46203ms, std. dev = 296.57626ms
+	Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 25.0% tiles
+Benchmark complete (100 iterations): 
+	Time: mean = 2145.13954ms, std. dev = 377.26937ms
+	Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 50.0% tiles
+Benchmark complete (100 iterations): 
+	Time: mean = 3997.68082ms, std. dev = 431.23985ms
+	Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 75.0% tiles
+Benchmark complete (100 iterations): 
+	Time: mean = 5667.04293ms, std. dev = 394.48407ms
+	Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 90.0% tiles
+Benchmark complete (100 iterations): 
+	Time: mean = 6612.89804ms, std. dev = 264.04183ms
+	Accuracy: mean = 100.00000%, std. dev = 0.00000%

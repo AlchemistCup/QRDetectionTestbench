@@ -1,0 +1,100 @@
+Testing standard library
+Testing 0 tiles
+Benchmark complete (10000 iterations): 
+	Time: mean = 1.41089ms, std. dev = 0.31595ms
+	F1 Score: mean = 1.00000, std. dev = 0.00000
+	Precision: mean = 1.00000, std. dev = 0.00000
+	Recall: mean = 1.00000, std. dev = 0.00000
+Testing 1 tiles
+Benchmark complete (10000 iterations): 
+	Time: mean = 1.83441ms, std. dev = 0.33086ms
+	F1 Score: mean = 0.99090, std. dev = 0.09496
+	Precision: mean = 1.00000, std. dev = 0.00000
+	Recall: mean = 0.99090, std. dev = 0.09496
+Testing 2 tiles
+Benchmark complete (10000 iterations): 
+	Time: mean = 2.15079ms, std. dev = 0.34340ms
+	F1 Score: mean = 0.99477, std. dev = 0.04378
+	Precision: mean = 1.00000, std. dev = 0.00000
+	Recall: mean = 0.99230, std. dev = 0.06278
+Testing 3 tiles
+Benchmark complete (10000 iterations): 
+	Time: mean = 2.59636ms, std. dev = 0.38912ms
+	F1 Score: mean = 0.99538, std. dev = 0.03103
+	Precision: mean = 1.00000, std. dev = 0.00000
+	Recall: mean = 0.99237, std. dev = 0.05075
+Testing 4 tiles
+Benchmark complete (10000 iterations): 
+	Time: mean = 3.19467ms, std. dev = 0.49846ms
+	F1 Score: mean = 0.99580, std. dev = 0.02546
+	Precision: mean = 1.00000, std. dev = 0.00000
+	Recall: mean = 0.99273, std. dev = 0.04334
+Testing 5 tiles
+Benchmark complete (10000 iterations): 
+	Time: mean = 3.95301ms, std. dev = 0.66075ms
+	F1 Score: mean = 0.99487, std. dev = 0.02476
+	Precision: mean = 1.00000, std. dev = 0.00000
+	Recall: mean = 0.99086, std. dev = 0.04355
+Testing 6 tiles
+Benchmark complete (10000 iterations): 
+	Time: mean = 4.80346ms, std. dev = 0.81012ms
+	F1 Score: mean = 0.99487, std. dev = 0.02243
+	Precision: mean = 1.00000, std. dev = 0.00000
+	Recall: mean = 0.99070, std. dev = 0.04031
+Testing 7 tiles
+Benchmark complete (10000 iterations): 
+	Time: mean = 5.77085ms, std. dev = 0.92043ms
+	F1 Score: mean = 0.99459, std. dev = 0.02099
+	Precision: mean = 1.00000, std. dev = 0.00000
+	Recall: mean = 0.99004, std. dev = 0.03829
+
+Testing multi-orientation library
+Testing 0 tiles
+Benchmark complete (10000 iterations): 
+	Time: mean = 3.48932ms, std. dev = 0.96105ms
+	F1 Score: mean = 1.00000, std. dev = 0.00000
+	Precision: mean = 1.00000, std. dev = 0.00000
+	Recall: mean = 1.00000, std. dev = 0.00000
+Testing 1 tiles
+Benchmark complete (10000 iterations): 
+	Time: mean = 3.93462ms, std. dev = 0.91977ms
+	F1 Score: mean = 0.99320, std. dev = 0.08218
+	Precision: mean = 1.00000, std. dev = 0.00000
+	Recall: mean = 0.99320, std. dev = 0.08218
+Testing 2 tiles
+Benchmark complete (10000 iterations): 
+	Time: mean = 4.73704ms, std. dev = 1.26322ms
+	F1 Score: mean = 0.99540, std. dev = 0.04118
+	Precision: mean = 1.00000, std. dev = 0.00000
+	Recall: mean = 0.99325, std. dev = 0.05899
+Testing 3 tiles
+Benchmark complete (10000 iterations): 
+	Time: mean = 5.16390ms, std. dev = 1.24775ms
+	F1 Score: mean = 0.99593, std. dev = 0.02850
+	Precision: mean = 1.00000, std. dev = 0.00000
+	Recall: mean = 0.99297, std. dev = 0.04837
+Testing 4 tiles
+Benchmark complete (10000 iterations): 
+	Time: mean = 5.79563ms, std. dev = 1.30850ms
+	F1 Score: mean = 0.99595, std. dev = 0.02515
+	Precision: mean = 1.00000, std. dev = 0.00000
+	Recall: mean = 0.99300, std. dev = 0.04288
+Testing 5 tiles
+Benchmark complete (10000 iterations): 
+	Time: mean = 6.45317ms, std. dev = 1.32917ms
+	F1 Score: mean = 0.99577, std. dev = 0.02261
+	Precision: mean = 1.00000, std. dev = 0.00000
+	Recall: mean = 0.99246, std. dev = 0.03974
+Testing 6 tiles
+Benchmark complete (10000 iterations): 
+	Time: mean = 7.63152ms, std. dev = 1.67601ms
+	F1 Score: mean = 0.99648, std. dev = 0.01851
+	Precision: mean = 1.00000, std. dev = 0.00000
+	Recall: mean = 0.99360, std. dev = 0.03339
+Testing 7 tiles
+Benchmark complete (10000 iterations): 
+	Time: mean = 8.94510ms, std. dev = 1.87760ms
+	F1 Score: mean = 0.99630, std. dev = 0.01761
+	Precision: mean = 1.00000, std. dev = 0.00000
+	Recall: mean = 0.99319, std. dev = 0.03214
+

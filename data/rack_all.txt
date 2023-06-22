@@ -1,0 +1,100 @@
+Testing OpenCV library
+Testing 0 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 3111.21191ms, std. dev = 78.16727ms
+	F1 Score: mean = 1.00000, std. dev = 0.00000
+Testing 1 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 3336.46484ms, std. dev = 20.72586ms
+	F1 Score: mean = 0.98800, std. dev = 0.10889
+Testing 2 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 3370.48755ms, std. dev = 57.91245ms
+	F1 Score: mean = 0.99467, std. dev = 0.04183
+Testing 3 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 3437.81299ms, std. dev = 46.83731ms
+	F1 Score: mean = 0.99580, std. dev = 0.02868
+Testing 4 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 3470.86304ms, std. dev = 35.93344ms
+	F1 Score: mean = 0.99643, std. dev = 0.02230
+Testing 5 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 3584.64746ms, std. dev = 52.82199ms
+	F1 Score: mean = 0.99700, std. dev = 0.01801
+Testing 6 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 3618.61035ms, std. dev = 66.83881ms
+	F1 Score: mean = 0.99598, std. dev = 0.01926
+Testing 7 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 3677.36255ms, std. dev = 32.68676ms
+	F1 Score: mean = 0.99706, std. dev = 0.01524
+Testing BoofCV library
+Testing 0 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 14.09495ms, std. dev = 8.50005ms
+	F1 Score: mean = 1.00000, std. dev = 0.00000
+Testing 1 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 131.96194ms, std. dev = 27.73975ms
+	F1 Score: mean = 0.99900, std. dev = 0.03161
+Testing 2 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 419.46344ms, std. dev = 111.13040ms
+	F1 Score: mean = 0.99867, std. dev = 0.02104
+Testing 3 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 815.09442ms, std. dev = 72.27893ms
+	F1 Score: mean = 0.99920, std. dev = 0.01262
+Testing 4 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 984.43713ms, std. dev = 153.89989ms
+	F1 Score: mean = 0.99971, std. dev = 0.00638
+Testing 5 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 1632.17249ms, std. dev = 173.41617ms
+	F1 Score: mean = 0.99978, std. dev = 0.00496
+Testing 6 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 2258.23608ms, std. dev = 118.99387ms
+	F1 Score: mean = 0.99936, std. dev = 0.00758
+Testing 7 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 2648.16699ms, std. dev = 113.14044ms
+	F1 Score: mean = 0.99969, std. dev = 0.00486
+Testing ZBar library
+Testing 0 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 7.65286ms, std. dev = 0.06033ms
+	F1 Score: mean = 1.00000, std. dev = 0.00000
+Testing 1 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 11.48290ms, std. dev = 0.10409ms
+	F1 Score: mean = 1.00000, std. dev = 0.00000
+Testing 2 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 15.32277ms, std. dev = 1.29817ms
+	F1 Score: mean = 1.00000, std. dev = 0.00000
+Testing 3 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 20.45502ms, std. dev = 2.51485ms
+	F1 Score: mean = 1.00000, std. dev = 0.00000
+Testing 4 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 27.67049ms, std. dev = 4.00698ms
+	F1 Score: mean = 1.00000, std. dev = 0.00000
+Testing 5 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 36.89541ms, std. dev = 5.29399ms
+	F1 Score: mean = 0.99967, std. dev = 0.00608
+Testing 6 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 46.25046ms, std. dev = 6.62990ms
+	F1 Score: mean = 0.99936, std. dev = 0.00758
+Testing 7 tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 58.55409ms, std. dev = 8.16474ms
+	F1 Score: mean = 0.99900, std. dev = 0.00871
+	

@@ -1,0 +1,103 @@
+Testing simultaneous method
+Testing 0.0% tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 18.84146ms, std. dev = 6.79434ms
+	Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 10.0% tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 21.20512ms, std. dev = 6.81578ms
+	Accuracy: mean = 99.90313%, std. dev = 0.40792%
+Testing 25.0% tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 35.18377ms, std. dev = 19.82456ms
+	Accuracy: mean = 99.21719%, std. dev = 1.82886%
+Testing 50.0% tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 127.35572ms, std. dev = 74.49575ms
+	Accuracy: mean = 89.85313%, std. dev = 16.99164%
+Testing 75.0% tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 180.27799ms, std. dev = 97.44356ms
+	Accuracy: mean = 47.83906%, std. dev = 27.57714%
+Testing 90.0% tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 166.43327ms, std. dev = 83.41490ms
+	Accuracy: mean = 24.29219%, std. dev = 21.09061%
+
+Testing iterative method
+Testing 0.0% tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 21.18972ms, std. dev = 6.85285ms
+	Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 10.0% tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 22.14879ms, std. dev = 6.33302ms
+	Accuracy: mean = 99.91094%, std. dev = 0.38828%
+Testing 25.0% tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 23.35460ms, std. dev = 5.51465ms
+	Accuracy: mean = 99.80156%, std. dev = 0.64588%
+Testing 50.0% tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 24.40720ms, std. dev = 4.12916ms
+	Accuracy: mean = 99.53906%, std. dev = 1.06201%
+Testing 75.0% tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 25.70579ms, std. dev = 2.87082ms
+	Accuracy: mean = 99.40000%, std. dev = 1.34279%
+Testing 90.0% tiles
+Benchmark complete (1000 iterations): 
+	Time: mean = 26.28186ms, std. dev = 1.93037ms
+	Accuracy: mean = 99.32188%, std. dev = 1.36363%
+
+Testing iterative (no glare) method
+Testing 0.0% tiles
+Benchmark complete (1000 iterations): 
+        Time: mean = 24.00758ms, std. dev = 7.10369ms
+        Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 10.0% tiles
+Benchmark complete (1000 iterations): 
+        Time: mean = 24.70921ms, std. dev = 6.51326ms
+        Accuracy: mean = 99.99844%, std. dev = 0.04939%
+Testing 25.0% tiles
+Benchmark complete (1000 iterations): 
+        Time: mean = 25.24951ms, std. dev = 5.74632ms
+        Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 50.0% tiles
+Benchmark complete (1000 iterations): 
+        Time: mean = 26.45708ms, std. dev = 4.53810ms
+        Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 75.0% tiles
+Benchmark complete (1000 iterations): 
+        Time: mean = 26.84296ms, std. dev = 2.74653ms
+        Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 90.0% tiles
+Benchmark complete (1000 iterations): 
+        Time: mean = 27.57696ms, std. dev = 3.16937ms
+        Accuracy: mean = 99.99375%, std. dev = 0.09862%
+
+Testing iterative (C=6) method
+Testing 0.0% tiles
+Benchmark complete (1000 iterations): 
+        Time: mean = 12.70878ms, std. dev = 0.64486ms
+        Accuracy: mean = 100.00000%, std. dev = 0.00000%
+Testing 10.0% tiles
+Benchmark complete (1000 iterations): 
+        Time: mean = 14.41917ms, std. dev = 1.03652ms
+        Accuracy: mean = 99.86562%, std. dev = 0.52432%
+Testing 25.0% tiles
+Benchmark complete (1000 iterations): 
+        Time: mean = 16.94782ms, std. dev = 1.56320ms
+        Accuracy: mean = 99.67500%, std. dev = 0.96917%
+Testing 50.0% tiles
+Benchmark complete (1000 iterations): 
+        Time: mean = 19.92353ms, std. dev = 1.52914ms
+        Accuracy: mean = 99.26250%, std. dev = 1.80955%
+Testing 75.0% tiles
+Benchmark complete (1000 iterations): 
+        Time: mean = 23.35066ms, std. dev = 1.58644ms
+        Accuracy: mean = 98.82812%, std. dev = 2.64681%
+Testing 90.0% tiles
+Benchmark complete (1000 iterations): 
+        Time: mean = 25.12959ms, std. dev = 1.42599ms
+        Accuracy: mean = 98.65781%, std. dev = 3.12622%
